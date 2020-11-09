@@ -11,6 +11,7 @@ import { TwoComponent } from './ajay/two/two.component';
 import { ThreeComponent } from './ajay/three/three.component';
 import { FourComponent } from './ajay/four/four.component';
 import { FiveComponent } from './ajay/five/five.component';
+import { SrikanthComponent } from './srikanth/srikanth.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { FiveComponent } from './ajay/five/five.component';
     TwoComponent,
     ThreeComponent,
     FourComponent,
-    FiveComponent
+    FiveComponent,
+    SrikanthComponent
   ],
   imports: [
     BrowserModule,
